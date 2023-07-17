@@ -23,8 +23,6 @@ My technical skillset includes:
 
 ## 📚 Education
 
-## 🎓 Education
-
 ### Malmö University
 - 📖 Bachelor of Philosophy, Computer Science, and Information Architecture (Aug 2022 - Jun 2025)
 - 🌐 Activities and Societies: The Event Committee
