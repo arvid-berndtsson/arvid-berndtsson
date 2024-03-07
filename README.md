@@ -41,5 +41,5 @@ My technical skillset includes:
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arvid-berndtsson)!
+Feel free to connect with me on [LinkedIn](https://l.arvid.top/linkedin)!
 
