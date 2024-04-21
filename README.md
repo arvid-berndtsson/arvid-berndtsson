@@ -16,8 +16,8 @@ My technical skillset includes:
 
 ## 🌐 Work Experience
 
-- **Merely Emissions**: Co-Founder (Apr 2023 - Jan 2024)
 - **Vertiseit AB**: Junior Developer (Oct 2021 - Present)
+- **Merely Emissions**: Co-Founder (Apr 2023 - Jan 2024)
 - **Vertiseit AB**: Junior Developer Intern (Jul 2021)
 - **Freelance**: Freelance Designer (May 2020 - Aug 2020)
 
