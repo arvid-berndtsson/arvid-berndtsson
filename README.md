@@ -10,7 +10,7 @@ I'm currently a Co-Founder at **Merely Emissions**, where I work on developing a
 
 My technical skillset includes:
 
-- **Programming Languages**: Python 🐍, C#, and JavaScript.
+- **Programming Languages**: Python 🐍, Rust, C#, and JavaScript.
 - **Web Technologies**: HTML5, CSS, .NET Framework, GraphQL, JSON, Git, Various SQL Servers 🌐.
 - **Software Development Skills**: Sales Management, Customer Relationship Management (CRM), Entrepreneurship, Startups, Product Development, Analytical Skills, Sustainability, Project Management.
 
