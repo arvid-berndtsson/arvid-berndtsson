@@ -1,6 +1,6 @@
 # Hi there, I'm Arvid Berndtsson 👋
 
-I'm a driven and versatile professional with a web development, programming, and design background. I'm currently pursuing a Bachelor of Philosophy degree in Computer Science and Information Architecture at Malmö University 🎓, and I balance my time between studying, running my own company, and working at [Vertiseit AB (publ)](https://vertiseit.com).
+I'm a driven and versatile professional with a web development, programming, and design background. I'm currently pursuing a Bachelor of Philosophy degree in Computer Science and [Information Architecture](https://mau.se/sok-utbildning/program/tgiar/) at [Malmö University](https://mau.se/en/) 🎓, and I balance my time between studying, running my own company, and working at [Vertiseit AB (publ)](https://vertiseit.com).
 
 ## 🔭 Current Work
 
