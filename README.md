@@ -42,7 +42,7 @@ My technical skillset includes:
 - 💼 Pursued a technology program with a focus on media and information technology. 
 - 🎨 Developed a solid foundation in web development, programming languages, and design principles, including HTML5, JavaScript, Python, PHP, web design, AutoCAD, CSS, and Linux.
 
-## Portfolio and blog?
+## 💼 Portfolio and blog?
 I publish some of my work at [arvidberndtsson.com](https://arvidberndtsson.com/), including blog posts and small articles about subjects that interest me. 
 
 ## 🤝 Let's Connect
