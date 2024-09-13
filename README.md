@@ -28,7 +28,7 @@ My technical skillset includes:
 
 ### [Malmö University](https://mau.se/en/)
 - 📖 Bachelor of Philosophy, [Computer Science, and Information Architecture](https://mau.se/sok-utbildning/program/tgiar/) (Aug 2022 - Jun 2025)
-- 🌐 Activities and Societies: The Event Committee
+- 🌐 Activities and Societies: The Event Committee and Teaching Assistant (Amanuens)
 - 💡 Studying a wide range of topics from graphic design to system architecture, UX, HTML5, SQL, Python, project planning, UI design, project management, and CSS.
 - 🚀 Focusing on the intersection of technology and design, preparing to create intuitive and functional digital experiences.
 
