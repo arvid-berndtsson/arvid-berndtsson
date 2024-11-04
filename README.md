@@ -17,8 +17,10 @@ My technical skillset includes:
 
 ## 🌐 Work Experience
 
-- [LimeTip](https://limetip.com): Founder (May 2024 - Present)
 - [Vertiseit AB (publ)](https://vertiseit.com): Software Developer (Jan 2023 - Present)
+- [Voyado](https://voyado.com/): Software Developer Intern (Through Malmö University) (Sep 2024 - Present)
+- [Malmö University](https://mau.se): Teaching Assistant (Amanuens) (Sep 2024 - Present)
+- [LimeTip](https://limetip.com): Founder (May 2024 - Present)
 - [Merely Emissions](https://merelyemissions.com): Co-Founder (Apr 2023 - Jan 2024)
 - [Vertiseit AB (publ)](https://vertiseit.com): Junior Software Developer (Oct 2021 - Dec 2023)
 - [Vertiseit AB (publ)](https://vertiseit.com): Junior Developer Intern (Jul 2021)
