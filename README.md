@@ -15,6 +15,8 @@ My technical skillset includes:
 - **Web Technologies**: HTML5, CSS, .NET Framework, GraphQL, JSON, Git, Various SQL Servers 🌐.
 - **Software Development Skills**: Sales Management, Customer Relationship Management (CRM), Entrepreneurship, Startups, Product Development, Analytical Skills, Sustainability, Project Management.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 ## 🌐 Work Experience
 
 - [Vertiseit AB (publ)](https://vertiseit.com): Software Developer (Jan 2023 - Present)
