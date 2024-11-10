@@ -11,11 +11,9 @@ I'm currently working on starting my own company [LimeTip](https://limetip.com),
 
 My technical skillset includes:
 
-- **Programming Languages**: Python 🐍, Rust, C#, and TypeScript/JavaScript.
-- **Web Technologies**: HTML5, CSS, .NET Framework, GraphQL, JSON, Git, Various SQL Servers 🌐.
+- **Programming Languages**: Python 🐍, Rust 🦀, C#, and TypeScript/JavaScript.
+- **Web Technologies**: Webpack, CSS, .NET Framework, GraphQL, JSON, Git, Various SQL Servers 🌐.
 - **Software Development Skills**: Sales Management, Customer Relationship Management (CRM), Entrepreneurship, Startups, Product Development, Analytical Skills, Sustainability, Project Management.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvid-berndtsson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ## 🌐 Work Experience
 
