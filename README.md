@@ -4,8 +4,9 @@ I'm a driven and versatile professional with a web development, programming, and
 
 ## 🔭 Current Work
 
+I'm a Software Developer at [Vertiseit AB (publ)](https://vertiseit.com), enhancing [digital in-store experience](https://arc.net/l/quote/arvrufsn) solutions web applications.
 
-I'm currently working on starting my own company [LimeTip](https://limetip.com), where I develop various financial automation tools, such as a [VAT validation tool](https://vat.limetip.com). Additionally, I'm also a Software Developer at [Vertiseit AB (publ)](https://vertiseit.com), enhancing [digital in-store experience](https://arc.net/l/quote/arvrufsn) solutions web applications.
+I have a resting company, [LimeTip](https://limetip.com), where I develop various financial automation tools, such as a [VAT validation tool](https://vat.limetip.com). 
 
 ## 👩‍💻 Technical Skills
 
