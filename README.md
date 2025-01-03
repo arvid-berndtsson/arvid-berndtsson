@@ -12,7 +12,7 @@ I'm a Software Developer at [Vertiseit AB (publ)](https://vertiseit.com), enhanc
 
 My technical skillset includes:
 
-- **Programming Languages**: Python 🐍, Rust 🦀, C#, and TypeScript/JavaScript.
+- **Programming Languages**: Python 🐍, Rust 🦀, TypeScript/JavaScript ☕️📜 and C# 👁️🔪.
 - **Web Technologies**: Webpack, CSS, .NET Framework, GraphQL, JSON, Git, Various SQL Servers 🌐.
 - **Software Development Skills**: Sales Management, Customer Relationship Management (CRM), Entrepreneurship, Startups, Product Development, Analytical Skills, Sustainability, Project Management.
 
