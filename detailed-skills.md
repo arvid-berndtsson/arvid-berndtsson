@@ -37,6 +37,9 @@
 
 ### CMS
 - WordPress Theme Development
+- Ghost
+- HubSpot (CMS Hub)
+- Salesforce (Salesforce Digital Experiences)
 
 ### Testing
 - Jest, React Testing Library
