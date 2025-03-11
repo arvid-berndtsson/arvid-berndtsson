@@ -11,7 +11,7 @@ Software Engineer based in Sweden, passionate about simplifying tech and creatin
 
 ## 🛠 Core Tech Stack
 
-- Languages: Python, Rust, TypeScript/JavaScript, C#
+- Languages: Python, Rust, TypeScript/JavaScript, Go, C#
 - Web: React, .NET, GraphQL, API Development
 - Cloud: Cloudflare, AWS, Railway, Azure
 - DevOps: Docker, Kubernetes, CI/CD, Git
