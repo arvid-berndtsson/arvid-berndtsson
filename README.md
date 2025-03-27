@@ -33,4 +33,4 @@ Developer with one foot in cybersecurity, the other in automation – and occasi
 - 💼 [LinkedIn](https://linkedin.com/in/arvid-berndtsson)
 - 📨 [Newsletter](https://arvid.tech/#/portal/) – cool tools, weird bugs, TryHackMe rabbit holes, and things I probably over-automated.
 
-![Force push badge](https://img.shields.io/badge/I%20force%20push%20to%20prod%20on%20Fridays-%F0%9F%91%8D-red)
+> *"I force push to prod on Fridays."*
