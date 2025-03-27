@@ -1,6 +1,7 @@
 # Arvid Berndtsson – Detailed Skills Overview
 
-This is where I try to list the tools, tech, and mistakes I've collected over the years. Some of it I use daily, and some I wish I never touched. 😉
+This is where I try to list the tools, tech, and mistakes I've collected over the years. 
+Some of it I use daily, and some I wish I had never touched. 😅
 
 ## Programming Languages
 - Python 🐍
