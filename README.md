@@ -25,7 +25,7 @@ Developer with one foot in cybersecurity, the other in automation – and occasi
 - [Merely Emissions](https://merelyemissions.com) - Digital Carbon Footprint Calculator
 - [Terminal Project](https://terminal-portfolio.arvid.tech) - Interactive web-based terminal
 
-[→ More projects](./projects.md)
+[→ More projects](https://arvid.tech/works/#:~:text=and%20Web%20Applications.-,detailed%20insights,-terminal-portfolio.arvid)
 
 ## 🌐 Where to find me
 
