@@ -4,7 +4,7 @@ Developer with one foot in cybersecurity, the other in automation – and occasi
 
 ## 🔍 A quick intro
 
-- 💼 Software Developer @ [Vertiseit](https://vertiseit.com)
+- 💼 Head of Information Security @ [Vertiseit](https://vertiseit.com)
 - 🎓 Studying Computer Science & Information Architecture at Malmö University
 - 🍋‍🟩 Founder of [LimeTip](https://limetip.com) – EU VAT made API-shaped
 - 🌱 Co-founder of [Merely Emissions](https://merelyemissions.com) – Digital Carbon Footprint Calculator
