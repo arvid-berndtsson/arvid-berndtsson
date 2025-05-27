@@ -24,6 +24,7 @@ Developer with one foot in cybersecurity, the other in automation – and occasi
 - [LimeTip](https://limetip.com) - Simplifying VAT compliance with a powerful API
 - [Merely Emissions](https://merelyemissions.com) - Digital Carbon Footprint Calculator
 - [Terminal Project](https://terminal-portfolio.arvid.tech) - Interactive web-based terminal
+- [Robots.txt Analyzer](https://robots-txt.arvid.tech) - A Robots.txt tool that provides a score and points of improvement.
 
 [→ More projects](https://arvid.tech/works/#:~:text=and%20Web%20Applications.-,detailed%20insights,-terminal-portfolio.arvid)
 
