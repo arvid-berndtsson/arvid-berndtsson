@@ -75,38 +75,56 @@ Object-Oriented Design (OOD) | Microservices | Various architectural patterns
 Unit testing | Integration testing | Other testing methodologies
 
 ## Security & Information Security Management
-Head of Information Security with hands-on expertise in building and maintaining secure systems
+Head of Information Security focused on Enterprise Security, with a passion for offensive security operations
 
-### Compliance & Governance
+### Enterprise Security & Compliance (Primary Focus)
 - **ISO 27001**: Leading ISMS implementation, internal audits, risk assessments, continuous improvement
 - **SOC 2**: Type I and Type II compliance, control implementation, audit preparation
-- **Frameworks**: GDPR, PCI DSS familiarity, privacy by design principles
-- **Risk Management**: Threat modeling, vulnerability assessments, security metrics and KPIs
+- **Security Governance**: Policy development, security awareness programs, board-level reporting
+- **Risk Management**: Enterprise risk assessments, threat modeling, security metrics and KPIs
+- **Compliance Frameworks**: GDPR, PCI DSS familiarity, privacy by design principles
+- **Vendor Risk Management**: Third-party security assessments, supply chain security
+
+### Offensive Security (Passion & Side Projects)
+- **Penetration Testing**: Web application pentesting, network penetration testing, OWASP Top 10 exploitation
+- **Red Team Operations**: Adversary emulation, social engineering, physical security testing
+- **Security Tools Development**: [redstr](https://github.com/arvid-berndtsson/redstr) - Rust library for offensive security operations
+- **Evasion Techniques**: WAF bypass, string obfuscation, payload crafting
+- **Exploit Development**: Understanding and demonstrating vulnerabilities, XSS, SQL injection, CSRF
+- **OSINT & Reconnaissance**: Information gathering, subdomain enumeration, attack surface mapping
+
+### Defensive Security & Blue Team
+- **Incident Response**: Detection, analysis, containment, recovery, and lessons learned
+- **Security Monitoring**: Log analysis, SIEM integration, alerting and response workflows
+- **Threat Hunting**: Proactive threat detection, IOC analysis, behavioral analytics
+- **Network Security**: WAF implementation, IDS/IPS, secure architecture design, subdomain hijacking prevention
+- **Vulnerability Management**: Patch management, vulnerability scanning, remediation tracking
+
+### Purple Team & Security Operations
+- **Purple Team Exercises**: Coordinating red and blue team activities, knowledge transfer
+- **Security Testing**: Combining offensive and defensive perspectives for comprehensive security
+- **Tool Development**: Building security automation and testing tools (OWASP ZAP contributions)
+- **Security Validation**: Testing defensive controls, measuring detection capabilities
 
 ### Secure Development & Application Security
 - **Secure SDLC**: Integrating security throughout the development lifecycle
-- **OWASP**: [OWASP Top 10](https://owasp.org/www-project-top-ten/) mitigation, secure coding practices
+- **OWASP**: [OWASP Top 10](https://owasp.org/www-project-top-ten/) mitigation and exploitation understanding
 - **Authentication & Authorization**: OAuth 2.0, OpenID Connect, secure session management
 - **API Security**: Secure API design, rate limiting, API key management, JWT implementation
 - **Data Protection**: Encryption at rest and in transit, secure key management, data loss prevention
-- **Input Validation & Sanitization**: XSS prevention, SQL injection mitigation, CSRF protection
-
-### Security Operations & Incident Response
-- **Incident Response**: Detection, analysis, containment, recovery, and lessons learned
-- **Security Monitoring**: Log analysis, SIEM integration, alerting and response workflows
-- **Vulnerability Management**: Patch management, penetration testing coordination, bug bounty programs
-- **Network Security**: WAF implementation, secure architecture design, subdomain hijacking prevention
 
 ### Security Tooling & Automation
 - **Security Testing**: Static analysis (SAST), dynamic analysis (DAST), dependency scanning
 - **CI/CD Security**: Automated security checks, secrets management, secure deployment pipelines
+- **Custom Tools**: Rust-based security tools (redstr for string obfuscation and offensive operations)
 - **Open Source**: OWASP ZAP contributions, security automation tools
 - **Infrastructure Security**: Container security, Kubernetes security policies, cloud security best practices
 
 ### Security Education & Advocacy
 - **Teaching**: Secure coding workshops at Malmö University, developer security training
-- **Content Creation**: Technical guides on subdomain hijacking prevention, compliance simplification
-- **Community**: Open-source security projects, security-focused blog posts and articles
+- **Content Creation**: Technical guides on subdomain hijacking prevention, WAF bypass techniques
+- **Community**: Open-source security projects (redstr, OWASP ZAP), security-focused blog posts
+- **Knowledge Sharing**: Bridging the gap between offensive security insights and defensive implementations
 
 ## Data Structures and Algorithms
 Strong fundamentals

@@ -1,6 +1,6 @@
 # Hi, I'm Arvid 👋
 
-Information Security Lead & Full-Stack Developer with a passion for building secure, scalable systems. I specialize in compliance (ISO 27001, SOC 2), secure software development, and making security practices accessible through automation and education.
+Information Security Lead specializing in Enterprise Security, compliance (ISO 27001, SOC 2), and security management. While my day job focuses on governance and risk, I'm passionate about offensive security – pentests, red teaming, and building security tools. Blue and purple team work is close to my heart too.
 
 ## 🔍 A quick intro
 
@@ -24,19 +24,21 @@ Information Security Lead & Full-Stack Developer with a passion for building sec
 
 ## 🔒 Security Focus
 
-Building secure systems from the ground up – from compliance frameworks to secure code.
+Bridging enterprise security management with hands-on offensive security.
 
-- **Compliance & Governance:** Leading ISO 27001 & SOC 2 implementation at Vertiseit
-- **Secure Development:** Teaching secure coding practices, OWASP Top 10, threat modeling
-- **Security Research:** Publishing guides on subdomain hijacking prevention and security best practices
-- **Open Source:** Contributing to OWASP ZAP and building security tools for the community
+- **Enterprise Security:** Leading ISO 27001 & SOC 2 compliance, risk management, security governance
+- **Offensive Security:** Pentesting enthusiast, red team operations, security tool development
+- **Defensive Operations:** Blue team practices, incident response, purple team exercises
+- **Security Research:** Publishing guides on subdomain hijacking, WAF bypass, and offensive techniques
+- **Open Source Security:** Building tools like [redstr](https://github.com/arvid-berndtsson/redstr) (Rust offensive security library), contributing to OWASP ZAP
 
 [→ Read my security thoughts](https://arvid.tech/thoughts)
 
 ## 🏗 Projects worth a look
 
-- [Chess MCP](https://arvid.tech/projects/chess-mcp) - AI-powered chess engine & game server with MCP integration
+- [redstr](https://github.com/arvid-berndtsson/redstr) - Rust library for offensive security operations (red team, pentesting, evasion)
 - [Compliance Simplified](https://compliance.arvid.tech) - ISO 27001 & SOC 2 compliance made approachable
+- [Chess MCP](https://arvid.tech/projects/chess-mcp) - AI-powered chess engine & game server with MCP integration
 - [LimeTip](https://limetip.com) - Simplifying VAT compliance with a powerful API
 - [Merely Emissions](https://merelyemissions.com) - Digital Carbon Footprint Calculator
 - [Doorlook](https://arvid.tech/projects/doorlook) - AI-driven employer analysis tool
