@@ -94,7 +94,13 @@ Caching strategies | Resource management | Lazy loading
 Docker | Kubernetes | Nixpack | Terraform
 
 ## AI and Machine Learning
-Predictive models (regression, classification) | Data-driven business development | Text analysis (Bag of Words, tone detection) | Multi-Layer Perceptron (MLP) neural networks | Chess engines with minimax algorithms and alpha-beta pruning | Agentic AI systems | MCP-based AI agent integration
+- Predictive models (regression, classification)
+- Data-driven business development
+- Text analysis (Bag of Words, tone detection)
+- Multi-Layer Perceptron (MLP) neural networks
+- Chess engines with minimax algorithms and alpha-beta pruning
+- Agentic AI systems
+- MCP-based AI agent integration
 
 ## Mobile Development
 Basic React Native
