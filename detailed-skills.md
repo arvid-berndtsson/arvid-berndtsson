@@ -74,15 +74,39 @@ Object-Oriented Design (OOD) | Microservices | Various architectural patterns
 ## Testing
 Unit testing | Integration testing | Other testing methodologies
 
-## Security
-Strong focus on secure software development and IT security principles
+## Security & Information Security Management
+Head of Information Security with hands-on expertise in building and maintaining secure systems
 
-- **Secure Development**: Authentication/authorization systems, secure API design, data encryption, input validation, secure session management
-- **Security in SDLC**: Threat modeling, static/dynamic analysis, security audits, CI/CD security integration
-- **Compliance**: [OWASP Top 10](https://owasp.org/www-project-top-ten/), GDPR, PCI DSS familiarity
-- **Network Security**: Secure architecture design, WAF implementation, incident response
-- **Cryptography**: Experience with common protocols and proper implementation
-- **Practical Experience**: Secure microservices, OAuth 2.0/OpenID Connect implementation, SSL/TLS management
+### Compliance & Governance
+- **ISO 27001**: Leading ISMS implementation, internal audits, risk assessments, continuous improvement
+- **SOC 2**: Type I and Type II compliance, control implementation, audit preparation
+- **Frameworks**: GDPR, PCI DSS familiarity, privacy by design principles
+- **Risk Management**: Threat modeling, vulnerability assessments, security metrics and KPIs
+
+### Secure Development & Application Security
+- **Secure SDLC**: Integrating security throughout the development lifecycle
+- **OWASP**: [OWASP Top 10](https://owasp.org/www-project-top-ten/) mitigation, secure coding practices
+- **Authentication & Authorization**: OAuth 2.0, OpenID Connect, secure session management
+- **API Security**: Secure API design, rate limiting, API key management, JWT implementation
+- **Data Protection**: Encryption at rest and in transit, secure key management, data loss prevention
+- **Input Validation & Sanitization**: XSS prevention, SQL injection mitigation, CSRF protection
+
+### Security Operations & Incident Response
+- **Incident Response**: Detection, analysis, containment, recovery, and lessons learned
+- **Security Monitoring**: Log analysis, SIEM integration, alerting and response workflows
+- **Vulnerability Management**: Patch management, penetration testing coordination, bug bounty programs
+- **Network Security**: WAF implementation, secure architecture design, subdomain hijacking prevention
+
+### Security Tooling & Automation
+- **Security Testing**: Static analysis (SAST), dynamic analysis (DAST), dependency scanning
+- **CI/CD Security**: Automated security checks, secrets management, secure deployment pipelines
+- **Open Source**: OWASP ZAP contributions, security automation tools
+- **Infrastructure Security**: Container security, Kubernetes security policies, cloud security best practices
+
+### Security Education & Advocacy
+- **Teaching**: Secure coding workshops at Malmö University, developer security training
+- **Content Creation**: Technical guides on subdomain hijacking prevention, compliance simplification
+- **Community**: Open-source security projects, security-focused blog posts and articles
 
 ## Data Structures and Algorithms
 Strong fundamentals
