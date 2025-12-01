@@ -7,7 +7,7 @@ Information Security Lead specializing in Enterprise Security, compliance (ISO 2
 - 🔐 Head of Information Security @ [Vertiseit](https://vertiseit.com) - Leading ISO 27001 & SOC 2 compliance
 - 🎓 Computer Science & Information Architecture @ Malmö University
 - 👨‍🏫 Teaching Assistant - Secure coding & web development
-- 🍋‍🟩 Founder of [LimeTip](https://limetip.com) - Incident communication platform for enterprises
+- 🍋‍🟩 Founder of [LimeTip](https://limetip.com) - Building incident communication tools
 - 🌱 Co-founder of [Merely Emissions](https://merelyemissions.com) - Digital carbon footprint calculator
 - 📍 Based in Malmö, Sweden
 
@@ -39,7 +39,7 @@ Bridging enterprise security management with hands-on offensive security.
 - [redstr](https://github.com/arvid-berndtsson/redstr) - Rust library for offensive security operations (red team, pentesting, evasion)
 - [Compliance Simplified](https://compliance.arvid.tech) - ISO 27001 & SOC 2 compliance made approachable
 - [Chess MCP](https://arvid.tech/projects/chess-mcp) - AI-powered chess engine & game server with MCP integration
-- [LimeTip](https://limetip.com) - Incident communication platform for enterprises (stakeholder notifications, investigation documentation, compliance workflows)
+- [LimeTip](https://limetip.com) - Building tools for incident communication and compliance workflows
 - [Merely Emissions](https://merelyemissions.com) - Digital Carbon Footprint Calculator
 - [Doorlook](https://arvid.tech/projects/doorlook) - AI-driven employer analysis tool
 - [Terminal Project](https://terminal-portfolio.arvid.tech) - Interactive web-based terminal
@@ -51,6 +51,5 @@ Bridging enterprise security management with hands-on offensive security.
 
 - 🌍 [arvid.tech](https://arvid.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/arvid-berndtsson)
-- 📨 [Newsletter](https://arvid.tech/#/portal/) - cool tools, weird bugs, TryHackMe rabbit holes, and things I probably over-automated.
 
 > *"I force push to prod on Fridays."*
