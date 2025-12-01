@@ -34,6 +34,7 @@ Some of it I use daily, and some I wish I had never touched. 😅
 ### API Development
 - REST API design and implementation
 - GraphQL API development
+- MCP (Model Context Protocol) servers and integration
 
 ### Build Tools and Module Bundlers
 - Webpack, Vite, Rollup
@@ -93,7 +94,7 @@ Caching strategies | Resource management | Lazy loading
 Docker | Kubernetes | Nixpack | Terraform
 
 ## AI and Machine Learning
-Predictive models (regression, classification) | Data-driven business development | Text analysis (Bag of Words, tone detection) | Multi-Layer Perceptron (MLP) neural networks
+Predictive models (regression, classification) | Data-driven business development | Text analysis (Bag of Words, tone detection) | Multi-Layer Perceptron (MLP) neural networks | Chess engines with minimax algorithms and alpha-beta pruning | Agentic AI systems | MCP-based AI agent integration
 
 ## Mobile Development
 Basic React Native
