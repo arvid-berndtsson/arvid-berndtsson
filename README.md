@@ -1,14 +1,14 @@
 # Hi, I'm Arvid 👋
 
-Information Security Lead specializing in Enterprise Security, compliance (ISO 27001, SOC 2), and security management. While my day job focuses on governance and risk, I'm passionate about offensive security – pentests, red teaming, and building security tools. Blue and purple team work is close to my heart too.
+Information Security Lead specializing in Enterprise Security, compliance (ISO 27001, SOC 2), and security management. My day job focuses on governance and risk, but I love offensive security: pentests, red teaming, and building security tools. Blue and purple team work matters to me too.
 
 ## 🔍 A quick intro
 
-- 🔐 Head of Information Security @ [Vertiseit](https://vertiseit.com) – Leading ISO 27001 & SOC 2 compliance
+- 🔐 Head of Information Security @ [Vertiseit](https://vertiseit.com) - Leading ISO 27001 & SOC 2 compliance
 - 🎓 Computer Science & Information Architecture @ Malmö University
-- 👨‍🏫 Teaching Assistant – Secure coding & web development
-- 🍋‍🟩 Founder of [LimeTip](https://limetip.com) – EU VAT validation API
-- 🌱 Co-founder of [Merely Emissions](https://merelyemissions.com) – Digital carbon footprint calculator
+- 👨‍🏫 Teaching Assistant - Secure coding & web development
+- 🍋‍🟩 Founder of [LimeTip](https://limetip.com) - EU VAT validation API
+- 🌱 Co-founder of [Merely Emissions](https://merelyemissions.com) - Digital carbon footprint calculator
 - 📍 Based in Malmö, Sweden
 
 ## 🛠 Tech I work with
@@ -51,6 +51,6 @@ Bridging enterprise security management with hands-on offensive security.
 
 - 🌍 [arvid.tech](https://arvid.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/arvid-berndtsson)
-- 📨 [Newsletter](https://arvid.tech/#/portal/) – cool tools, weird bugs, TryHackMe rabbit holes, and things I probably over-automated.
+- 📨 [Newsletter](https://arvid.tech/#/portal/) - cool tools, weird bugs, TryHackMe rabbit holes, and things I probably over-automated.
 
 > *"I force push to prod on Fridays."*
