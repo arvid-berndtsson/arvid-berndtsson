@@ -34,16 +34,24 @@ Bridging enterprise security management with hands-on offensive security.
 
 [→ Read my security thoughts](https://arvid.tech/thoughts)
 
-## 🏗 Projects worth a look
+## 🏗 Current Projects
 
-- [redstr](https://github.com/arvid-berndtsson/redstr) - Rust library for offensive security operations (red team, pentesting, evasion)
-- [Compliance Simplified](https://compliance.arvid.tech) - ISO 27001 & SOC 2 compliance made approachable
-- [Chess MCP](https://arvid.tech/projects/chess-mcp) - AI-powered chess engine & game server with MCP integration
-- [LimeTip](https://limetip.com) - Building tools for incident communication and compliance workflows
-- [Merely Emissions](https://merelyemissions.com) - Digital Carbon Footprint Calculator
-- [Doorlook](https://arvid.tech/projects/doorlook) - AI-driven employer analysis tool
-- [Terminal Project](https://terminal-portfolio.arvid.tech) - Interactive web-based terminal
-- [Robots.txt Analyzer](https://robots-txt.arvid.tech) - A Robots.txt tool that provides a score and points of improvement
+- 🦀 **[redstr](https://github.com/arvid-berndtsson/redstr)** - Red-team string obfuscation and transformation toolkit for offensive security workflows.
+- 🧱 **[redstr-server](https://github.com/arvid-berndtsson/redstr-server)** - HTTP API server for exposing redstr transformations.
+- 🧼 **[typesecure](https://github.com/arvid-berndtsson/typesecure)** - TypeScript library for log sanitization and reducing PII leakage.
+- 💤 **[lazyms](https://github.com/arvid-berndtsson/lazyms)** - Minimal CLI utilities for Microsoft security and Azure workflows.
+- 🕷️ **[wordpress-scan](https://github.com/arvid-berndtsson/wordpress-scan)** - Lightweight WordPress vulnerability scanning utility.
+- 📱 **[qr-spoof](https://github.com/arvid-berndtsson/qr-spoof)** - Security awareness project demonstrating QR spoofing risks.
+- 🤖 **[robots-txt-analyzer](https://github.com/arvid-berndtsson/robots-txt-analyzer)** - Analyzer for robots.txt exposure, security hints, and SEO signals.
+- 🌐 **[domain-availability-checker](https://github.com/arvid-berndtsson/domain-availability-checker)** - Cloudflare Worker that checks domain availability via RDAP.
+- ✅ **[cc-check](https://github.com/arvid-berndtsson/cc-check)** - Conventional commit checker for cleaner commit history.
+- ♟️ **[Chess-MCP](https://github.com/arvid-berndtsson/Chess-MCP)** - MCP-based chess engine and game server for AI integrations.
+- 📋 **[compliance-simplified](https://github.com/arvid-berndtsson/compliance-simplified)** - Practical ISO 27001 and SOC 2 compliance tooling and guides.
+
+### Legacy work
+
+- 🔎 **[rurl](https://github.com/arvid-berndtsson/rurl)** - Rust utility for URL and recon-oriented security workflows.
+- 🛰️ **[ISMAU.online](https://ismau.online)** - External uptime monitor project for Malmö University services.
 
 [→ More projects](https://arvid.tech/projects)
 
@@ -52,4 +60,11 @@ Bridging enterprise security management with hands-on offensive security.
 - 🌍 [arvid.tech](https://arvid.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/arvid-berndtsson)
 
-> *"I force push to prod on Fridays."*
+<details>
+<summary>Random Facts</summary>
+
+- Started programming at 8
+- I miss AppleScript, and wish it had more use cases
+- Sound modification through scripts is something I still can't grasp
+
+</details>
