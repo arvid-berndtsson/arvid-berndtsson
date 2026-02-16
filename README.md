@@ -42,6 +42,7 @@ Bridging enterprise security management with hands-on offensive security.
 - 🤖 **[robots-txt-analyzer](https://github.com/arvid-berndtsson/robots-txt-analyzer)** - Analyzer for robots.txt exposure, security hints, and SEO signals.
 - 🌐 **[domain-availability-checker](https://github.com/arvid-berndtsson/domain-availability-checker)** - Cloudflare Worker that checks domain availability via RDAP.
 - ✅ **[cc-check](https://github.com/arvid-berndtsson/cc-check)** - Conventional commit checker for cleaner commit history.
+- 🔤 **[is-char](https://github.com/arvid-berndtsson/is-char)** - Tiny, dependency-free utility for checking single characters.
 - ♟️ **[Chess-MCP](https://github.com/arvid-berndtsson/Chess-MCP)** - MCP-based chess engine and game server for AI integrations.
 - 📋 **[compliance-simplified](https://github.com/arvid-berndtsson/compliance-simplified)** - Practical ISO 27001 and SOC 2 compliance tooling and guides.
 
