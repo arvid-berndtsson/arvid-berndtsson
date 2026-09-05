@@ -5,7 +5,7 @@ Information Security Lead specializing in Enterprise Security, compliance (ISO 2
 ## 🔍 A quick intro
 
 - 🔐 Head of Information Security @ [Vertiseit](https://vertiseit.com) - Leading ISO 27001 & SOC 2 compliance
-- 🍋‍🟩 Founder of [LimeTip](https://limetip.com) - Building incident communication tools
+- 🍋‍🟩 Founder of [LimeTip](https://limetip.com) - Building security tools
 - 📍 Based in Malmö, Sweden
 
 ## 🛠 Tech I work with
