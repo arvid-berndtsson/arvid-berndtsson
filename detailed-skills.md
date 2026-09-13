@@ -1,157 +1,66 @@
-# Arvid Berndtsson - Detailed Skills Overview
+# Work and technical background
 
-This is where I try to list the tools, tech, and mistakes I've collected over the years. 
-Some of it I use daily, and some I wish I had never touched. 😅
+[← Back to my profile](./README.md)
 
-## Programming Languages
-- Python 🐍
-- TypeScript/JavaScript ☕️📜
-- Rust 🦀
-- Go 🏃🏼
-- C# 👁️🔪
+I started in software development and now lead information security at [Vertiseit](https://vertiseit.com). I want to understand how a system works before deciding how to protect it.
 
-## Web Technologies
+## Information security
 
-### Frontend Frameworks and Libraries
-- React
-- Vue
-- Angular
-- Angular.JS
-- Qwik
-- Fresh (Deno's React-like framework)
+My work includes ISO 27001, SOC 2, and TISAX readiness, along with the day-to-day tasks of running a security program.
 
-### CSS and Styling
-- Tailwind CSS, Bootstrap (v4 and v5)
-- SASS/SCSS, CSS-in-JS
+- Maintaining the ISMS, assessing risks, and preparing controls and evidence for audits.
+- Reviewing suppliers, answering customer security questions, and reviewing access.
+- Investigating security alerts, assessing evidence, and coordinating incident response.
+- Planning incident exercises and following up on what they reveal.
+- Bringing code review and vulnerability checks into development workflows.
+- Working on AI governance and how teams use AI in development.
 
-### Backend Frameworks
-- .NET Framework, ASP.NET Core
-- Laravel (PHP)
-- Express.js (Node.js)
-- Deno 1 and Deno 2
-- Python: FastAPI, Flask, Django, Bottle
+I also build tools to reduce manual work around compliance evidence and security administration. [Compliance Simplified](https://github.com/arvid-berndtsson/compliance-simplified) collects guides and quizzes for ISO 27001 and SOC 2.
 
-### API Development
-- REST API design and implementation
-- GraphQL API development
-- MCP (Model Context Protocol) servers and integration
+## Security engineering
 
-### Build Tools and Module Bundlers
-- Webpack, Vite, Rollup
+I like offensive security because it gives me a way to test assumptions about how a system behaves. My projects cover several parts of that work:
 
-### CMS
-- WordPress Theme Development
-- Ghost
-- HubSpot (CMS Hub)
-- Salesforce (Salesforce Digital Experiences)
+- [redstr](https://github.com/arvid-berndtsson/redstr) provides string transformations and obfuscation for pentesting and testing security controls.
+- [Tapid](https://github.com/LimeTip/tapid) is where I'm working on package verification, script permissions, sandboxing, and release integrity. It's an experimental package manager, still under development.
+- [typesecure](https://github.com/arvid-berndtsson/typesecure) uses data classification, runtime policies, and redaction to help prevent secrets and personal data from leaking into logs and telemetry.
 
-### Testing
-- Jest, React Testing Library
-- Deno's built-in testing framework (Deno.test)
+I write about security too, including [subdomain hijacking](https://arvid.tech/blog/a-practical-guide-to-preventing-subdomain-hijacking), privacy, and software supply chain risks. [Read my posts](https://arvid.tech/blog).
 
-### Progressive Web Apps (PWA)
-- Service Workers, Web Push Notifications
+## Microsoft 365 and cloud
 
-## Cloud & Hosting
-- **Cloudflare**: Pages, Workers, KV, Durable Objects, R2, DNS configuration
-- **AWS**: SES, Terraform for hosting
-- **Railway**: Extensive experience in hosting and deployment
-- **Azure**: Basic knowledge
+I work with Microsoft 365, Entra ID, Exchange Online, and Azure, including identity administration and security automation. [lazyms](https://github.com/arvid-berndtsson/lazyms) is an alpha terminal UI for Azure resource queries and Microsoft security policies.
 
-## Databases
-SQL (various servers) | NoSQL | JSON
+For my own applications and tools, I use Cloudflare Workers and Pages, storage services such as R2 and KV, and Docker. My earlier development work also includes AWS, Terraform, and Railway.
 
-## Version Control
-- **Systems**: Git, Mercurial
-- **Platforms**: GitHub, Bitbucket, Gitea (self-hosted), GitLab
+## Software development
 
-## DevOps & CI/CD
-GitHub Actions | Build pipelines | esbuild configuration | Automatic deployment | Environment previews
+I started programming at eight and sold my first website in May 2020. These days I build command-line tools, APIs, and web applications.
 
-## Software Architecture
-Object-Oriented Design (OOD) | Microservices | Various architectural patterns
+| Tools | Examples of my work |
+| --- | --- |
+| Rust | Tapid, redstr, and command-line tools |
+| TypeScript and JavaScript | Web applications, typesecure, and MCP integrations |
+| Python | Automation, scripting, and earlier teaching work |
+| Go | lazyms |
+| PowerShell | Microsoft 365 and Exchange administration |
+| C# and .NET | Web applications and integrations at Vertiseit |
 
-## Testing
-Unit testing | Integration testing | Other testing methodologies
+My web development background includes React, Angular, Qwik, Astro, and Deno/Fresh. I work with REST and GraphQL APIs, and use GitHub Actions for builds, checks, and releases.
 
-## Security & Information Security Management
-Head of Information Security focused on Enterprise Security, with a passion for offensive security operations
+## AI and experiments
 
-### Enterprise Security & Compliance (Primary Focus)
-- **ISO 27001**: Leading ISMS implementation, internal audits, risk assessments, continuous improvement
-- **SOC 2**: Type I and Type II compliance, control implementation, audit preparation
-- **Security Governance**: Policy development, security awareness programs, board-level reporting
-- **Risk Management**: Enterprise risk assessments, threat modeling, security metrics and KPIs
-- **Compliance Frameworks**: GDPR, PCI DSS familiarity, privacy by design principles
-- **Vendor Risk Management**: Third-party security assessments, supply chain security
+I use coding agents and build MCP integrations. [Chess-MCP](https://github.com/arvid-berndtsson/Chess-MCP) is a chess engine and game server for AI integrations. I've also written about retrieval-augmented generation for document search.
 
-### Offensive Security (Passion & Side Projects)
-- **Penetration Testing**: Web application pentesting, network penetration testing, OWASP Top 10 exploitation
-- **Red Team Operations**: Adversary emulation, social engineering, physical security testing
-- **Security Tools Development**: [redstr](https://github.com/arvid-berndtsson/redstr) - Rust library for offensive security operations
-- **Evasion Techniques**: WAF bypass, string obfuscation, payload crafting
-- **Exploit Development**: Understanding and demonstrating vulnerabilities, XSS, SQL injection, CSRF
-- **OSINT & Reconnaissance**: Information gathering, subdomain enumeration, attack surface mapping
+AI governance is part of my security work. Agent integrations and chess engines are also things I explore through personal projects.
 
-### Defensive Security & Blue Team
-- **Incident Response**: Detection, analysis, containment, recovery, and lessons learned
-- **Security Monitoring**: Log analysis, SIEM integration, alerting and response workflows
-- **Threat Hunting**: Proactive threat detection, IOC analysis, behavioral analytics
-- **Network Security**: WAF implementation, IDS/IPS, secure architecture design, subdomain hijacking prevention
-- **Vulnerability Management**: Patch management, vulnerability scanning, remediation tracking
+<details>
+<summary>Earlier tools and experience</summary>
 
-### Purple Team & Security Operations
-- **Purple Team Exercises**: Coordinating red and blue team activities, knowledge transfer
-- **Security Testing**: Combining offensive and defensive perspectives for comprehensive security
-- **Tool Development**: Building security automation and testing tools (OWASP ZAP contributions)
-- **Security Validation**: Testing defensive controls, measuring detection capabilities
+Over the years I've also worked with Vue, AngularJS, Laravel, Express, and Python web frameworks. Earlier web projects involved WordPress, Ghost, HubSpot, and Salesforce, along with Bootstrap, Sass, Webpack, and other build tools.
 
-### Secure Development & Application Security
-- **Secure SDLC**: Integrating security throughout the development lifecycle
-- **OWASP**: [OWASP Top 10](https://owasp.org/www-project-top-ten/) mitigation and exploitation understanding
-- **Authentication & Authorization**: OAuth 2.0, OpenID Connect, secure session management
-- **API Security**: Secure API design, rate limiting, API key management, JWT implementation
-- **Data Protection**: Encryption at rest and in transit, secure key management, data loss prevention
+I was a teaching assistant in programming and web development at Malmö University. Before my current security role, I worked as a developer at Vertiseit and completed a development internship at Voyado.
 
-### Security Tooling & Automation
-- **Security Testing**: Static analysis (SAST), dynamic analysis (DAST), dependency scanning
-- **CI/CD Security**: Automated security checks, secrets management, secure deployment pipelines
-- **Custom Tools**: Rust-based security tools (redstr for string obfuscation and offensive operations)
-- **Open Source**: OWASP ZAP contributions, security automation tools
-- **Infrastructure Security**: Container security, Kubernetes security policies, cloud security best practices
+</details>
 
-### Security Education & Advocacy
-- **Teaching**: Secure coding workshops at Malmö University, developer security training
-- **Content Creation**: Technical guides on subdomain hijacking prevention, WAF bypass techniques
-- **Community**: Open-source security projects (redstr, OWASP ZAP), security-focused blog posts
-- **Knowledge Sharing**: Bridging the gap between offensive security insights and defensive implementations
-
-## Data Structures and Algorithms
-Strong fundamentals
-
-## Performance Optimization
-Caching strategies | Resource management | Lazy loading
-
-## Containerization & Infrastructure
-Docker | Kubernetes | Nixpack | Terraform
-
-## AI and Machine Learning
-- Predictive models (regression, classification)
-- Data-driven business development
-- Text analysis (Bag of Words, tone detection)
-- Multi-Layer Perceptron (MLP) neural networks
-- Chess engines with minimax algorithms and alpha-beta pruning
-- Agentic AI systems
-- MCP-based AI agent integration
-
-## Mobile Development
-Basic React Native
-
-## Agile Methodologies
-Scrum | Kanban | Extreme Programming
-
-## Email Services
-Mailgun | AWS SES | SendGrid
-
-## Sustainability
-Green coding practices | Digital carbon footprint analysis
+[Work history](https://arvid.tech/experiences) · [About me](https://arvid.tech/about) · [LinkedIn](https://www.linkedin.com/in/arvid-berndtsson/)

@@ -1,69 +1,62 @@
 # Hi, I'm Arvid 👋
 
-Information Security Lead specializing in Enterprise Security, compliance (ISO 27001, SOC 2), and security management. My day job focuses on governance and risk, but I love offensive security: pentests, red teaming, and building security tools. Blue and purple team work matters to me too.
+I lead information security at [Vertiseit](https://vertiseit.com) and build security tools at [LimeTip](https://github.com/LimeTip). My work includes governance, security investigations, and helping developers build safer software. I like digging into how systems work and writing tools I can use myself.
+
+[Website](https://arvid.tech) · [Writing](https://arvid.tech/blog) · [Projects](https://arvid.tech/projects) · [LinkedIn](https://www.linkedin.com/in/arvid-berndtsson/)
 
 ## 🔍 A quick intro
 
-- 🔐 Head of Information Security @ [Vertiseit](https://vertiseit.com) - Leading ISO 27001 & SOC 2 compliance
-- 🍋‍🟩 Founder of [LimeTip](https://limetip.com) - Building security tools
-- 📍 Based in Malmö, Sweden
+- 🔐 Head of Information Security at Vertiseit, working on ISO 27001, SOC 2, TISAX readiness, and AI governance.
+- 🍋‍🟩 Founder of LimeTip. Currently building [Tapid](https://github.com/LimeTip/tapid), an experimental JavaScript and TypeScript package manager written in Rust.
+- 📍 Based in Malmö, Sweden.
+
+## 🔒 What I'm working on
+
+- Automating compliance tasks, reviewing vendor risks, and working on incident response.
+- Helping teams adopt secure development practices and understand the reasons behind them.
+- Working on package verification, script sandboxing, and release integrity in Tapid.
+- Building tools for Microsoft 365, Entra ID, and Azure administration.
+- Writing offensive security tools and experimenting with AI agents and MCP.
+
+## 🏗 Selected projects
+
+- 📦 **[Tapid](https://github.com/LimeTip/tapid)** · Experimental JS/TS package manager with verified package storage and explicit script permissions. [Website](https://tapid.dev).
+- 🦀 **[redstr](https://github.com/arvid-berndtsson/redstr)** · String obfuscation and transformation for pentesting and testing security controls.
+- 🧼 **[typesecure](https://github.com/arvid-berndtsson/typesecure)** · Classify sensitive data and enforce redaction policies before it reaches logs or telemetry.
+- 💤 **[lazyms](https://github.com/arvid-berndtsson/lazyms)** · Terminal UI for querying Azure resources and managing Microsoft 365 security policies. Still in alpha.
+- 📋 **[compliance-simplified](https://github.com/arvid-berndtsson/compliance-simplified)** · Guides and quizzes for implementing ISO 27001 and SOC 2 controls. [Website](https://compliance.arvid.tech/).
+
+<details>
+<summary>More projects and experiments</summary>
+
+- ♟️ **[Chess-MCP](https://github.com/arvid-berndtsson/Chess-MCP)** · Chess engine and game server for AI integrations through MCP.
+- 🔤 **[is-char](https://github.com/arvid-berndtsson/is-char)** · Tiny, dependency-free utility for checking a single JavaScript UTF-16 code unit.
+- 🧱 **[redstr-server](https://github.com/arvid-berndtsson/redstr-server)** · HTTP API for redstr transformations.
+- 🌐 **[domain-availability-checker](https://github.com/arvid-berndtsson/domain-availability-checker)** · Cloudflare Worker for domain availability checks through RDAP.
+- 🤖 **[robots-txt-analyzer](https://github.com/arvid-berndtsson/robots-txt-analyzer)** · Inspect robots.txt rules and potential security exposures.
+- 🧥 **[klumo](https://github.com/arvid-berndtsson/klumo)** · Experimental JS/TS runtime with LLM translation and self-healing.
+- 💻 **[terminal-portfolio](https://github.com/arvid-berndtsson/terminal-portfolio)** · A portfolio website that looks like a terminal.
+
+</details>
 
 ## 🛠 Tech I work with
 
-- **Languages:** Python, Rust, TypeScript, Go, C#
-- **Web & APIs:** React, .NET, GraphQL, REST, MCP (Model Context Protocol)
-- **Infra & Cloud:** Docker, Kubernetes, GitHub Actions, Cloudflare, AWS, Railway, Azure
-- **Security:** ISO 27001, SOC 2, OWASP, secure SDLC, risk management, incident response
-- **DevOps:** CI/CD, infrastructure as code, GitHub Actions
-- **AI & Agents:** Chess engines, agentic AI systems, minimax algorithms
+![Rust](https://img.shields.io/badge/Rust-454545?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-454545?style=flat)
+![Python](https://img.shields.io/badge/Python-454545?style=flat)
+![Go](https://img.shields.io/badge/Go-454545?style=flat)
+![PowerShell](https://img.shields.io/badge/PowerShell-454545?style=flat)
+![C#](https://img.shields.io/badge/C%23-454545?style=flat)
 
-[→ Full skill overview](./detailed-skills.md)
+Azure & Microsoft 365 · Cloudflare · Docker · GitHub Actions · React · .NET · MCP
 
-## 🔒 Security Focus
-
-Bridging enterprise security management with hands-on offensive security.
-
-- **Enterprise Security:** Leading ISO 27001 & SOC 2 compliance, risk management, security governance
-- **Offensive Security:** Pentesting enthusiast, red team operations, security tool development
-- **Defensive Operations:** Blue team practices, incident response, purple team exercises
-- **Security Research:** Publishing guides on subdomain hijacking, WAF bypass, and offensive techniques
-- **Open Source Security:** Building tools like [redstr](https://github.com/arvid-berndtsson/redstr) (Rust offensive security library), contributing to OWASP ZAP
-
-[→ Read my security thoughts](https://arvid.tech/thoughts)
-
-## 🏗 Current Projects
-
-- 🦀 **[redstr](https://github.com/arvid-berndtsson/redstr)** - Red-team string obfuscation and transformation toolkit for offensive security workflows.
-- 🧱 **[redstr-server](https://github.com/arvid-berndtsson/redstr-server)** - HTTP API server for exposing redstr transformations.
-- 🧼 **[typesecure](https://github.com/arvid-berndtsson/typesecure)** - TypeScript library for log sanitization and reducing PII leakage.
-- 💤 **[lazyms](https://github.com/arvid-berndtsson/lazyms)** - Minimal CLI utilities for Microsoft security and Azure workflows.
-- 🕷️ **[wordpress-scan](https://github.com/arvid-berndtsson/wordpress-scan)** - Lightweight WordPress vulnerability scanning utility.
-- 📱 **[qr-spoof](https://github.com/arvid-berndtsson/qr-spoof)** - Security awareness project demonstrating QR spoofing risks.
-- 🤖 **[robots-txt-analyzer](https://github.com/arvid-berndtsson/robots-txt-analyzer)** - Analyzer for robots.txt exposure, security hints, and SEO signals.
-- 🌐 **[domain-availability-checker](https://github.com/arvid-berndtsson/domain-availability-checker)** - Cloudflare Worker that checks domain availability via RDAP.
-- ✅ **[cc-check](https://github.com/arvid-berndtsson/cc-check)** - Conventional commit checker for cleaner commit history.
-- 🔤 **[is-char](https://github.com/arvid-berndtsson/is-char)** - Tiny, dependency-free utility for checking single characters.
-- 🧥 **[klumo](https://github.com/arvid-berndtsson/klumo)** - A JS/TS runtime with LLM translation and self-healing.
-- ♟️ **[Chess-MCP](https://github.com/arvid-berndtsson/Chess-MCP)** - MCP-based chess engine and game server for AI integrations.
-- 📋 **[compliance-simplified](https://github.com/arvid-berndtsson/compliance-simplified)** - Practical ISO 27001 and SOC 2 compliance tooling and guides.
-
-### Legacy work
-
-- 🔎 **[rurl](https://github.com/arvid-berndtsson/rurl)** - Rust utility for URL and recon-oriented security workflows.
-- 🛰️ **[ISMAU.online](https://ismau.online)** - External uptime monitor project for Malmö University services.
-
-[→ More projects](https://arvid.tech/projects)
-
-## 🌐 Where to find me
-
-- 🌍 [arvid.tech](https://arvid.tech)
-- 💼 [LinkedIn](https://linkedin.com/in/arvid-berndtsson)
+[→ More about my work and technical background](./detailed-skills.md)
 
 <details>
-<summary>Random Facts</summary>
+<summary>A few things about me</summary>
 
-- Started programming at 8
-- I miss AppleScript, and wish it had more use cases
-- Sound modification through scripts is something I still can't grasp
+- Started programming at 8.
+- I miss AppleScript and wish it had more use cases.
+- Sound modification through scripts is something I still can't grasp.
 
 </details>
